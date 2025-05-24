@@ -1,2 +1,6 @@
 # swgoh-daily-automation
-# swgoh-daily-automation
+
+
+# requirements
+
+pip install pyautogui psutil pygetwindow
